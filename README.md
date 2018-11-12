@@ -1,17 +1,22 @@
-<<<<<<< HEAD
-=======
-# News Highlighter
-This is a flask application that lets a user choose a preferred news source and view all the top headlines and articles from that source.
+# NEWS HIGHLIGHTER
+It is a flask application that lets a user choose type of news to read from 
 ## Author
 **ELIAS KANOGA**
 ### Description
-
 The site obtains information on news sources and articles form a news API and displays it on the landing page. A user can browse through the sources and articles and select the one they prefer. A user can click on the link to read the full article from the parent source.
 ### Installation requirements
-To run the application you need to have installed the following: Python3.6, flask-bootstrap, flask-wtf forms and flask-script.go ahead and proceed to the github repository linked below, copy the link and run the following command: git clone <repo url>  replace repo url with the url you copied
+To run this application:
+               - git clone url https://github.com/Kanogaelias/newsapp
+               - pip install flask
+               - pip install flask_bootstrap
+               - pip install flask_script
+               - pip install flask_wtf
+               - chmod a+x start.sh
+               - ./start.sh
 
 ### known bugs
 Currently the application has no known bugs but if you come across any issues feel free to contact me from the email address provided below.
+
 ### technologies used
 The technologies used to build the application are:
 1. Python
@@ -19,6 +24,8 @@ The technologies used to build the application are:
 3. Bootstrap4
 4. css
 ### link to live site on heroku
+https://git.heroku.com/newsapiip.git
+
 ### Contact
 for any remarks,questions or advise feel free to email me at kanogae@gmail.com
 ### licence
@@ -27,4 +34,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
->>>>>>> 47825f84db1c66e409e5b7df760ae9806ad0c948
