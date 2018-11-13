@@ -24,7 +24,7 @@ The technologies used to build the application are:
 3. Bootstrap4
 4. css
 ### link to live site on heroku
-https://git.heroku.com/newsapiip.git
+https://newsappip.herokuapp.com/
 
 ### Contact
 for any remarks,questions or advise feel free to email me at kanogae@gmail.com
